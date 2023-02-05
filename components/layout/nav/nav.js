@@ -49,50 +49,50 @@ export default function Nav({ visible }) {
       </Link>
       <ul className={classes.links_container}>
         <li>
-          <Link legacyBehavior href="/anasayfa">
+          <Link legacyBehavior href="/">
             <a
               className={classes.link}
-              title="Hakkımızda Linki"
-              id="hakkımızda_linki_nav"
-              href="#Hakkımızda"
+              title=""
+              id=""
+              href="#"
             >
-              Anasayfa
+              Lorem Ipsum
             </a>
           </Link>
         </li>
         <li>
-          <Link legacyBehavior href="/hizmetlerimiz">
+          <Link legacyBehavior href="/">
             <a
               className={classes.link}
-              title="Hizmetlerimiz Linki"
-              id="hizmetlerimiz_linki_nav"
-              href="#Hizmetlerimiz"
+              title=""
+              id=""
+              href="#"
             >
-              Hizmetlerimiz
+              Lorem Ipsum
             </a>
           </Link>
         </li>
         <li>
-          <Link legacyBehavior href="referanslarimiz">
+          <Link legacyBehavior href="">
             <a
               className={classes.link}
-              title="Referanslarımız Linki"
-              id="referanslarımız_linki_nav"
-              href="#Referanslarımız"
+              title=""
+              id=""
+              href=""
             >
-              Referanslarımız ve Tedarikçilerimiz
+              Lorem Ipsum
             </a>
           </Link>
         </li>
         <li>
-          <Link legacyBehavior href="/iletisim">
+          <Link legacyBehavior href="/">
             <a
-              href="#İletişim"
-              title="İletişim Linki"
-              id="iletişim_linki_nav"
+              href="#"
+              title=""
+              id=""
               className={classes.link}
             >
-              İletişim
+              Lorem Ipsum
             </a>
           </Link>
         </li>

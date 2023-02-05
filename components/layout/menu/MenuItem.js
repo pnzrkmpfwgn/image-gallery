@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import classes from './menu.module.css';
-import Link from 'next/link'
 const variants = {
     open: {
         y: 0,

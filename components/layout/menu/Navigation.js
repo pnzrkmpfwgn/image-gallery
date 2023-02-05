@@ -12,20 +12,20 @@ const variants = {
 };
 
 const itemsID = [
-  { title: "Anasayfa", icon: "fas fa-home", slug: "/anasayfa", id: 0 },
+  { title: "Lorem Ipsum", icon: "fas fa-home", slug: "/", id: 0 },
   {
-    title: "Hizmetlerimiz",
+    title: "Lorem Ipsum",
     icon: "fas fa-wrench",
-    slug: "/hizmetlerimiz",
+    slug: "/",
     id: 1,
   },
   {
-    title: "Referanslarımız ve Tedarikçilerimiz",
+    title: "Lorem Ipsum",
     icon: "far fa-handshake",
-    slug: "/referanslarimiz",
+    slug: "/",
     id: 2,
   },
-  { title: "İletişim", icon: "fas fa-phone", slug: "/iletisim", id: 3 },
+  { title: "Lorem Ipsum", icon: "fas fa-phone", slug: "/", id: 3 },
 ];
 
 const Navigation = ({ isOpen, toggleOpen }) => (
