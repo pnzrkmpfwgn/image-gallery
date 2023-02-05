@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import Header from "./header/Header";
-import Footer from "./footer/Footer";
+import Header from "./header/header";
+import Footer from "./footer/footer";
 import classes from "./layout.module.css";
 import { useOnScreen,useMediaQuery } from '../../utils/hooks'
 
